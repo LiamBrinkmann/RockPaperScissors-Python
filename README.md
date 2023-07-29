@@ -1,5 +1,5 @@
-# RockPaperScissors-Python //Development
-Simple rock paper scissors done in python //Development
+# RockPaperScissors-Python
+Simple rock paper scissors done in python
 
 This repository was made for the homework of CMPG 323
 
